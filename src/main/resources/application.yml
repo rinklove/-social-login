@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: socialLogin
+
+  config:
+    import:
+    - classpath:/config/secret.yml
+
+
